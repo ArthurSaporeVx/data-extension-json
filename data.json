@@ -2,5 +2,9 @@
   {
     "name": "John Doe",
     "content": "Hello, how are you?"
+  },
+  {
+    "name": "GitHub Stats",
+    "content": "Repositório mais popular do GitHub: freeCodeCamp/freeCodeCamp com 420742 estrelas. Descrição: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
   }
 ]
